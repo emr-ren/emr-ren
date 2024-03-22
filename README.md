@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Emre Eren Şeyhoğlu, also known as 'Muscle Man'</h1>
 
-<h2 align="center"> I'm like the Darth Vader of c# and unity<h2 align="center">
+<h2 align="center"> I'm the Darth Vader of c# and unity<h2 align="center">
 
 <p align="center">
   <img src="https://github.com/emr-ren/emr-ren/assets/107279229/79a749d6-de2d-4818-bfd8-3b4933cf1e47" alt="Darth Vader" width="800"/>
