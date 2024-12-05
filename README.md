@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Emre Eren Şeyhoğlu, also known as 'Muscle Man'</h1>
+<h1 align="center">Hello, I am Emre, also known as 'Muscle Man'</h1>
 
 <h2 align="center"> I'm the Darth Vader of c# and unity<h2 align="center">
 
