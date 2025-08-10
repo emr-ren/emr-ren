@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Emre, also known as 'Muscle Man'</h1>
 
-<h2 align="center"> I'm the Darth Vader of c# and unity<h2 align="center">
+<h2 align="center"> I'm the Darth Vader of C#<h2 align="center">
 
 <p align="center">
   <img src="https://github.com/emr-ren/emr-ren/assets/107279229/79a749d6-de2d-4818-bfd8-3b4933cf1e47" alt="Darth Vader" width="800"/>
@@ -9,7 +9,22 @@
 
   
 
-<h3 align="center">I've been working in game development using Unity for four years. I really enjoy creating my own worlds and developing games with Unity. However, my work isn't limited to just Unity. I lead a small team, and together we create various games and develop applications in areas such as web, desktop, Android, artificial intelligence, and machine learning. Additionally, as a leader, I manage team members, assist them when they encounter problems, and by writing code.</h3>
+<h2>MUSCLE MAN ?</h2>
+
+<p>
+  Saying I’m good at everything you can do with <strong>C#</strong> would be an understatement — I could practically write the book on it.<br>
+  When it comes to building and managing <strong>micro-systems</strong> and <strong>APIs</strong>, I have no rivals — and if there are any, I haven’t met them yet.
+</p>
+
+<p>
+  <strong>Project management?</strong> Flawless.<br>
+  I plan, execute, and keep the team’s morale sky-high.
+</p>
+
+<p>
+  In short, when a project starts, there’s no one better than me — and by the time it’s finished, there still isn’t.
+</p>
+
 
 <div align="center">
   <img src="https://github.com/emr-ren/emr-ren/assets/107279229/baa7795c-9726-491e-a49a-1e4c6d59c00a" alt="TheUnity"/>
